@@ -1,0 +1,72 @@
+body  
+
+{ 
+
+    margin: 2cm; 
+
+    text-align: center; 
+
+    background-image:linear-gradient(rgb(243, 226, 204),rgb(189, 143, 82)); 
+
+} 
+
+ 
+ 
+
+.comunion{ 
+
+    background-color: rgb(218, 85, 85); 
+
+    border-radius:1cm; 
+
+    font-style: italic; 
+
+    text-align: center; 
+
+} 
+
+ 
+ 
+
+h4{ 
+
+    color: rgb(148, 77, 77); 
+
+    text-align: center; 
+
+    text-shadow: 2px 2px rgb(187, 185, 160); 
+
+} 
+
+ 
+ 
+
+li { 
+
+    color: rgb(61, 60, 60); 
+
+} 
+
+ 
+ 
+
+.boda { 
+
+    background-color: rgb(112, 136, 214); 
+
+    border-radius:1cm; 
+
+    font-style: italic; 
+
+    text-align: center; 
+
+} 
+
+ 
+ 
+
+#indoduccion { 
+
+    font-family:'Times New Roman', Times, serif 
+
+} 
