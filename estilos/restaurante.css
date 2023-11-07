@@ -34,7 +34,7 @@ h3 {
 .Botonera {  
     overflow: hidden;  
     background-color: rgb(120,185,103);  
-    width: 100%;  
+    width: calc((100%/3)-60px);  
     top: 0;  
     font-family:Verdana, Geneva, Tahoma, sans-serif;  
     border-radius: 30px; 
