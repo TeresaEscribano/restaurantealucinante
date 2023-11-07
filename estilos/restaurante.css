@@ -1,8 +1,8 @@
 h1 {
-    text-align:center;  
+  text-align:center;  
     line-height: 400px;  
-    color: rgb(350,350,350); 
-    font-size: 70px; 
+    color: rgb(0,0,0); 
+    font-size:450%; 
     text-shadow: 0.1cm 0.1cm rgb(50,50,50); 
     font-family: vinyl pop, times new romans 
 }  
