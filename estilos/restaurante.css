@@ -34,12 +34,12 @@ h3 {
 .Botonera {  
     overflow: hidden;  
     background-color: rgb(120,185,103);  
-    width: calc((100%/3)-60px);  
+    width: calc((100%/5)-60px);  
     top: 0;  
     font-family:Verdana, Geneva, Tahoma, sans-serif;  
     border-radius: 30px; 
     display: inline-block;
-    TEXT-ALING: CENTER;
+    text-align: center;
     
 }  
 .Botonera a  {  
