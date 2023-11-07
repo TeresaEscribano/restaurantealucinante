@@ -38,10 +38,13 @@ h3 {
     top: 0;  
     font-family:Verdana, Geneva, Tahoma, sans-serif;  
     border-radius: 30px; 
+    display: inline-block;
+    TEXT-ALING: CENTER;
+    
 }  
 .Botonera a  {  
-    float: center;  
-    display: inline-block;  
+    float: left;  
+    display: block;  
     color: #ffffff;  
     text-align: center;  
     padding: 18px 20px;  
