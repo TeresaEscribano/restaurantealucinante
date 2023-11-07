@@ -40,14 +40,15 @@ h3 {
     border-radius: 30px; 
 }  
 .Botonera a  {  
-    float: left;  
-    display: block;  
+    float: center;  
+    display: inline-block;  
     color: #ffffff;  
     text-align: center;  
     padding: 18px 20px;  
     font-size: 20px;  
     border-radius: 30px; 
     text-decoration: none 
+    
 }  
 .Botonera :hover {  
     background: rgb(67,100,59);  
