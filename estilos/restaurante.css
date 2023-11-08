@@ -31,6 +31,8 @@ h2 {
 h3 { 
     color: rgb(67,100,59)
 } 
+a {
+  text-decoration: none;
 .Botonera {  
     overflow: hidden;  
     background-color: rgb(120,185,103);  
