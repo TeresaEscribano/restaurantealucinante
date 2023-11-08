@@ -34,18 +34,23 @@ h3 {
 a {
   text-decoration: none;
 }
-.Botonera {  
-    overflow: hidden;  
-    background-color: rgb(120,185,103);  
-    top: 0;  
-    font-family:Verdana, Geneva, Tahoma, sans-serif;  
-    border-radius: 30px; 
+
+.Boton {
+    font-size: 20px;
     display: inline-block;
-    width: calc((100%/5)-60px);
+    border-radius: 30px;
+    background-color: rgb(120,185,103); 
+    width: calc((100% / 5) - 10px);
+    padding: 10px 0px;
     text-align: center;
-    
-}  
-.Botonera a  {   
+}
+.fondomenu {
+    background-color: rgb(120,185,103); 
+    border-radius: 30px;
+    width: 100%;
+}
+
+.Boton a  {   
     float: left; 
     display: inline-block;  
     color: #ffffff;  
@@ -56,7 +61,7 @@ a {
     text-decoration: none 
     
 }  
-.Botonera :hover {  
+.Boton :hover {  
     background: rgb(67,100,59);  
     color: black;  
 }  
