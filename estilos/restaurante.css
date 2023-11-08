@@ -36,7 +36,10 @@ a {
     text-decoration: none;
     color: Black;
 }
-
+a:hover {
+  color: hotpink;
+  text-decoration: underline;
+}
 .Boton {
     font-size: 20px;
     display: inline-block;
@@ -46,12 +49,6 @@ a {
     padding: 10px 0px;
     text-align: center;
 }
-.fondomenu {
-    background-color: rgb(120,185,103); 
-    border-radius: 30px;
-    width: 100%;
-}
-
 .Boton a  {   
     float: left; 
     display: inline-block;  
@@ -67,6 +64,11 @@ a {
     background: rgb(67,100,59);  
     color: black;  
 }  
+.fondomenu {
+    background-color: rgb(120,185,103); 
+    border-radius: 30px;
+    width: 100%;
+}
 .table1 {
     border-collapse: collapse; 
     border-spacing: 10px 20px;
