@@ -10,7 +10,10 @@ h1 {
     text-align: center
 } 
 body{
-    margin: 2cm;  
+    margin-left: 2cm;  
+    margin-right: 2cm;
+    margin-bottom: 2cm;
+    margin-top: 0cm;
     background-color: #cdecc5; 
     padding: 1cm;
 }  
