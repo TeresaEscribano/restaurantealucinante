@@ -1,12 +1,14 @@
-.h1 {
-    display: flex;
-   align-items: center; 
+h1 {
+    text-align: center;
     padding-bottom: 50%;
     color: rgb(350,350,350); 
     font-size:450%; 
     text-shadow: 0.1cm 0.1cm rgb(50,50,50); 
     font-family: vinyl pop, times new romans 
 }  
+.h1 {display: flex;
+   align-items: center; }  
+
 .p1 {
     text-align: center
 } 
