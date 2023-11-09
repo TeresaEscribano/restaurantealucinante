@@ -1,6 +1,5 @@
 h1 {
     text-align:center;  
-    height: 400px;
     padding-bottom: 50%;
     color: rgb(350,350,350); 
     font-size:450%; 
@@ -18,7 +17,8 @@ body{
     background-color: #cdecc5; 
     padding: 1cm;
 }  
-header {    
+header { 
+     height: 400px;
     background-image: url("https://cdn.pixabay.com/photo/2020/02/22/00/03/dawn-4869057_1280.jpg");  
     background-size: cover;  
     background-repeat:no-repeat;  
