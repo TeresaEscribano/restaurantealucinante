@@ -97,6 +97,8 @@ footer {
   font-size: 13px;
   text-align: center;
 } 
-audio {
-
+audio{
+    border-color: brown;
+    border-style: solid;
+    width: 50px;
 }
