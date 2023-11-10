@@ -99,6 +99,7 @@ footer {
 } 
 audio{
     border-color: brown;
+    border-radius: 10px;
     border-style: solid;
-    width: 50px;
+    width: 200px;
 }
