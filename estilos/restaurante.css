@@ -12,7 +12,8 @@ h1 {
        style: "border:0;" 
        allowfullscreen: "";
        loading: "lazy";
-       referrerpolicy: "no-referrer-when-downgrade"}  
+       referrerpolicy: "no-referrer-when-downgrade";
+      border: 1px}  
 
 .h1 {display: flex;
    align-items: center; }  
