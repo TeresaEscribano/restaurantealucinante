@@ -7,7 +7,7 @@ h1 {
     font-family: vinyl pop, times new romans 
 }  
 
-#mapa {width: 50%; 
+#mapa {width: 40%; 
        style: "border:0;" 
        allowfullscreen: "";
        loading: "lazy";
@@ -15,8 +15,7 @@ h1 {
       border: 1px}  
 
 .h1 {align-items: center;
-display: flex;
-height: 15px;
+display: center;
 justify-content: center }  
 
 .p1 {
