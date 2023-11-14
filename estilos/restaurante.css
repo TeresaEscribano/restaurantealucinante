@@ -67,6 +67,7 @@ a:hover {
     padding: 10px 0px;
     text-align: center;
     cursor: w-resize; 
+    text-align: center;
 }
 .Boton a  {   
     float: left; 
