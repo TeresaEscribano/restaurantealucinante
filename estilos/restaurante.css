@@ -57,6 +57,12 @@ a:hover {
   text-decoration: underline;
     cursor: crosshair;
 }
+a :visited{
+    color: blank;
+}
+a :active{
+    color: pink;
+}
 .Boton {
     font-size: 20px;
     display: inline-block;
