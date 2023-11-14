@@ -6,6 +6,14 @@ h1 {
     text-shadow: 0.1cm 0.1cm rgb(50,50,50); 
     font-family: vinyl pop, times new romans 
 }  
+
+#mapa {width: 600px; 
+       height: 450px; 
+       style: "border:0;" 
+       allowfullscreen: "";
+       loading: "lazy";
+       referrerpolicy: "no-referrer-when-downgrade"}  
+
 .h1 {display: flex;
    align-items: center; }  
 
