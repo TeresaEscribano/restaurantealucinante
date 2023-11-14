@@ -72,9 +72,8 @@ a:hover {
     padding: 18px 20px;    
     font-size: 20px;  
     border-radius: 30px; 
-    text-decoration: none 
-    cursor: cell
-    
+    text-decoration: none;
+    cursor: cell; 
 }  
 .Boton :hover {  
     background: rgb(67,100,59);  
