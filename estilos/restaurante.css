@@ -7,8 +7,8 @@ h1 {
     font-family: vinyl pop, times new romans 
 }  
 
-#mapa {width: 600px; 
-       height: 450px; 
+#mapa {width: 900px; 
+       height: 750px; 
        style: "border:0;" 
        allowfullscreen: "";
        loading: "lazy";
@@ -62,6 +62,7 @@ a:hover {
     width: calc((100% / 5) - 10px);
     padding: 10px 0px;
     text-align: center;
+    cursor: cell
 }
 .Boton a  {   
     float: left; 
