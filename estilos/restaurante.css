@@ -73,11 +73,11 @@ a:hover {
     font-size: 20px;  
     border-radius: 30px; 
     text-decoration: none;
-    cursor: cell; 
 }  
-.Boton :hover {  
+.Boton a:hover {  
     background: rgb(67,100,59);  
     color: black;  
+    cursor: cell; 
 }  
 .fondomenu {
     background-color: rgb(120,185,103); 
