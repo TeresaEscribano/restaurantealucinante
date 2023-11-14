@@ -7,8 +7,7 @@ h1 {
     font-family: vinyl pop, times new romans 
 }  
 
-#mapa {width: 700px; 
-       height: 550px; 
+#mapa {width: 50%; 
        style: "border:0;" 
        allowfullscreen: "";
        loading: "lazy";
