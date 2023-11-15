@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>índice de contenidos</title>
+</head>
+<link rel="stylesheet"        
+        type="text/css"         href="css/estilospaginacontenidos.css">
+<link rel="icon" href="img/icono.ico">
+
+<body>
+<h1> Índice de contenidos </h1>
+<p>El punto 4 puede verse <a href="index.html/.Boton"> aquí </a> </p>
+</body>
+</html>
