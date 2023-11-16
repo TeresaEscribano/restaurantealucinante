@@ -1,0 +1,28 @@
+h1 {text-align: center;
+font-family:  "vinyl pop", "times new roman", Times, serif;
+color: rgb(120,205,123) ; 
+text-shadow: 0.05cm 0.05cm rgb(67,100,59);
+  font-size: 270%
+}
+
+body {margin-left: 2cm;
+ background-color: #cdecc5; 
+  padding: 1cm;
+  font-family:'Times New Roman', Times, serif;
+color: rgb(67,100,59);
+}
+
+table {font-size: 130%;
+text-align: justify;
+}
+
+.encabezado {font-size: 150%;
+font-weight: bold;
+text-shadow: 0.04cm 0.04cm rgb(120,205,123);
+}
+
+
+
+.info {
+  width: 200px;
+font-weight: bold}
