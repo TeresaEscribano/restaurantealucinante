@@ -51,7 +51,7 @@ h3 {
 } 
 a {
     text-decoration: none;
-    color: Grey;
+    color: rgb(54,69,79);
     font-style: italic;
 }
 a:hover {
@@ -127,8 +127,4 @@ audio{
 .aboutustitle {text-align: center;
 font-size: 35px;
 font-style: bold;
-}
-
-.enlaceaboutus {
-    color: black
 }
