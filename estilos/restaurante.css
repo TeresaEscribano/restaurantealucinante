@@ -123,3 +123,8 @@ audio{
     border-style: solid;
     width: 40%;
 }
+
+.aboutustitle {text-align: center;
+font-size: 35px;
+font-style: bold;
+}
