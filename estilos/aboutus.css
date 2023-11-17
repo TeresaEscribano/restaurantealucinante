@@ -8,7 +8,11 @@ body
     text-align: center;
 }
 h1{
-    font-size: 35px;
+ text-align: center;
+font-family:  "vinyl pop", "times new roman", Times, serif;
+color: rgb(120,205,123) ; 
+text-shadow: 0.05cm 0.05cm rgb(67,100,59);
+  font-size: 270%
 }
 
 img {
