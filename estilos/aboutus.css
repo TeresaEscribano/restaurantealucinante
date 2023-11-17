@@ -10,6 +10,10 @@ body
 h1{
     font-size: 35px;
 }
+
+img {
+	width: 100px
+}
 table{
     border: 2px;
     border-radius: 5px;
