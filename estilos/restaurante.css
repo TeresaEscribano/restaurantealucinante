@@ -128,7 +128,8 @@ audio{
 font-size: 35px;
 font-style: bold;
 }
- .aboutus {
-     width: 500px;
-     scroling: no
+.aboutus {
+     width: 50%;
+     scroling: no;
+    border-radius: 5px;
  }
