@@ -60,3 +60,9 @@ img{
     width: 20%;
     align: "center";
 }
+#aboutus {
+     width: 50%;
+     height: 250px;
+     scrolling: no;
+     border-radius: 5px;
+ }
