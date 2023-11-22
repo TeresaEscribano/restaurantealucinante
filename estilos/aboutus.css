@@ -26,3 +26,19 @@ table th{
     border-radius: 5px;
     border-color: rgb(67,100,59);
 }
+a {
+    text-decoration: none;
+    color: rgb(54,69,79);
+    font-style: italic;
+}
+a:hover {
+  color: hotpink;
+  text-decoration: underline;
+    cursor: crosshair;
+}
+a :visited{
+    color: blank;
+}
+a :active{
+    color: blue;
+}
