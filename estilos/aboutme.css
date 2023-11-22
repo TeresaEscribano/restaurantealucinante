@@ -29,3 +29,13 @@ text-shadow: 0.04cm 0.04cm rgb(120,205,123);
 .info {
   width: 200px;
 font-weight: bold}
+footer {
+  background-color: #777;
+  padding: 0px;
+  margin-left: -2cm;
+  margin-right: -2cm;
+  margin-bottom: -2cm;
+  color: white;
+  font-size: 13px;
+  text-align: center;
+} 
