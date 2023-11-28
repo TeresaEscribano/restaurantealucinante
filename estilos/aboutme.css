@@ -1,8 +1,20 @@
 @media screen and (max-width: 800px){
-    header {
+    header{
         display: block;
     }
+    body{
+        font-size: 7px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    img{
+        size: 40%;
+    }
+    footer{
+        font-size: 7px;
+    }
 }
+
 h1 {
 text-align: center;
 font-family:  "vinyl pop", "times new roman", Times, serif;
@@ -20,6 +32,7 @@ body {
     padding: 1cm;
     font-family:'Times New Roman', Times, serif;
     color: rgb(67,100,59);
+    font-size: 13px;
 }
 
 table {font-size: 130%;
@@ -39,8 +52,9 @@ header{
 }
 
 .info {
-  width: 200px;
-font-weight: bold}
+    width: 200px;
+    font-weight: bold
+}
 footer {
   background-color: #777;
   padding: -10px;
@@ -57,8 +71,8 @@ a {
     font-style: italic;
 }
 a:hover {
-  color: hotpink;
-  text-decoration: underline;
+    color: hotpink;
+    text-decoration: underline;
     cursor: crosshair;
 }
 a :visited{
@@ -72,8 +86,8 @@ img{
     align: center;
 }
 #aboutus {
-     width: 50%;
-     height: 100%;
-     scrolling: no;
-     border-radius: 5px;
+    width: 50%;
+    height: 100%;
+    scrolling: no;
+    border-radius: 5px;
 }
