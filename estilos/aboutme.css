@@ -6,6 +6,7 @@
         font-size: 7px;
         margin-left: 0px;
         text-align: center;
+        padding: 0px;
     }
     img{
         size: 40%;
@@ -15,6 +16,7 @@
     }
     svg{
         margin-left: 0px;
+        padding: 0px;
         align-items:center;
         display: block;
     }
@@ -28,7 +30,7 @@ text-shadow: 0.05cm 0.05cm rgb(67,100,59);
 font-size: 270%
 }
 .titulo1{
-    width: 40%;
+    width: 30%;
 }
 
 body {
@@ -52,8 +54,10 @@ header{
     text-shadow: 0.04cm 0.04cm rgb(120,205,123);
 }
 #svg {
-  margin-left: 50%;
+  margin-left: 0px;
   padding: 10px;
+  display: inline-block;
+  size: 20%;
 }
 
 .info {
